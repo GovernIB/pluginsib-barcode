@@ -7,8 +7,8 @@ import java.net.URL;
 
 import javax.imageio.ImageIO;
 
-import org.fundaciobit.plugins.userinformation.UserInfo;
-import org.fundaciobit.plugins.utils.ImageUtils;
+import org.fundaciobit.pluginsib.userinformation.UserInfo;
+import org.fundaciobit.pluginsib.core.utils.ImageUtils;
 
 /**
  * 

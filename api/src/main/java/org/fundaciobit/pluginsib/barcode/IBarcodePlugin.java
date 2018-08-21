@@ -3,8 +3,8 @@ package org.fundaciobit.pluginsib.barcode;
 import java.awt.Image;
 import java.net.URL;
 
-import org.fundaciobit.plugins.IPlugin;
-import org.fundaciobit.plugins.userinformation.UserInfo;
+import org.fundaciobit.pluginsib.core.IPlugin;
+import org.fundaciobit.pluginsib.userinformation.UserInfo;
 
 /**
  * 
