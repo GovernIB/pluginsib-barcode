@@ -64,7 +64,7 @@ public interface IBarcodePlugin extends IPlugin {
    * @return
    * @throws Exception
    */
-  Object generateBinaryBarCodeIText(byte[] data) throws Exception;
+  com.itextpdf.text.Image generateBinaryBarCodeIText(byte[] data) throws Exception;
   
   boolean requireRotation();
 
