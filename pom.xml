@@ -27,7 +27,6 @@
         <updatePolicy>never</updatePolicy>
       </snapshots>
     </repository>
-    <!-- REQUERIM  MMS Computing & Alfresco  -->
     <repository>
       <id>github-governib-maven-repos</id>
       <name>GitHub GovernIB Maven Repository</name>
@@ -40,7 +39,7 @@
       <artifactId>pluginsib-core</artifactId>
       <version>2.0.0</version>
     </dependency>
-	<dependency>
+	  <dependency>
       <groupId>org.fundaciobit.pluginsib.userinformation</groupId>
       <artifactId>pluginsib-userinformation-api</artifactId>
 	  <version>2.0.0</version>
