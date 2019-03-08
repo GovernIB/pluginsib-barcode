@@ -1,5 +1,6 @@
 # pluginsib-barcode
-Migració de plugins-barcode al seu propi repositori.
+
+Plugins de generació de codi de barres amb barcode128, pdf417 i qrcode.
 
 
 ***Implementacions***
