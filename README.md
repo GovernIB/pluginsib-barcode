@@ -1,4 +1,5 @@
 # ![Logo](https://github.com/GovernIB/maven/raw/binaris/pluginsib/projectinfo_Attachments/icon.jpg) pluginsib-barcode  (pluginsib-2.0)
+*Generador de codis de barres de PluginsIB*
 
 ***Versions***
 > - Versió Estable: -
@@ -6,7 +7,7 @@
 
 ***Descripció***
 
-Repositori que genera codis de barres amb barcode128, pdf417 i qrcode.
+Plugin de generació de codis de barres.
 
 La versió actual d'aquest plugin és la  [pluginsib-barcode-2.0](https://github.com/GovernIB/pluginsib-barcode/tree/pluginsib-barcode-2.0)
 
