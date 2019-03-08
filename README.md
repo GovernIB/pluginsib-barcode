@@ -10,6 +10,7 @@ Repositori que genera codis de barres amb barcode128, pdf417 i qrcode.
 
 La versió actual d'aquest plugin és la  [pluginsib-barcode-2.0](https://github.com/GovernIB/pluginsib-barcode/tree/pluginsib-barcode-2.0)
 
+***Documentació***
 
 **Enllaços**
 
