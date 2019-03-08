@@ -3,13 +3,11 @@
 
 ***Versions***
 > - Versió Estable: -
-> - Versió en Desenvolupament: __pluginsib-utils-2.0__ (branca [pluginsib-utils-2.0](../../tree/pluginsib-barcode-2.0))
+> - Versió en Desenvolupament: __pluginsib-utils-2.0__ (branca [pluginsib-barcode-2.0](../../tree/pluginsib-barcode-2.0))
 
 ***Descripció***
 
 Plugin de generació de codis de barres.
-
-La versió actual d'aquest plugin és la  [pluginsib-barcode-2.0](https://github.com/GovernIB/pluginsib-barcode/tree/pluginsib-barcode-2.0)
 
 ***Documentació***
 
