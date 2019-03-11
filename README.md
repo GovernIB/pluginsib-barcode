@@ -1,5 +1,5 @@
 # ![Logo](https://github.com/GovernIB/maven/raw/binaris/pluginsib/projectinfo_Attachments/icon.jpg) pluginsib-barcode  (pluginsib-2.0)
-*Generador de codis de barres de PluginsIB*
+*API i Plugins de generació de còdis de barres*
 
 ***Versions***
 > - Versió Estable: -
