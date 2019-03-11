@@ -11,6 +11,8 @@ Plugin de generació de codis de barres.
 
 ***Documentació***
 
+[Documentació branca estable](../../tree/pluginsib-barcode-2.0/README.md#documentaci%C3%B3)
+
 **Enllaços**
 
 Plugin procedent de [pluginsib-1.0/plugins-barcode](https://github.com/GovernIB/pluginsib/tree/pluginsib-1.0/plugins-barcode).  
