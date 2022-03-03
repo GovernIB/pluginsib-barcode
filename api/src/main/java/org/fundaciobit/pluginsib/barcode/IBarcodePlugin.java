@@ -4,7 +4,6 @@ import java.awt.Image;
 import java.net.URL;
 
 import org.fundaciobit.pluginsib.core.IPlugin;
-import org.fundaciobit.pluginsib.userinformation.UserInfo;
 
 /**
  * 
