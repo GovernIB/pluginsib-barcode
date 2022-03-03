@@ -3,3 +3,15 @@
 /pdf417/target
 /qrcode/target
 /target
+/api/.project
+/api/.settings
+/api/.classpath
+/barcode128/.classpath
+/barcode128/.project
+/barcode128/.settings
+/pdf417/.classpath
+/pdf417/.project
+/pdf417/.settings
+/qrcode/.classpath
+/qrcode/.project
+/qrcode/.settings
