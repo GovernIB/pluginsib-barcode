@@ -5,7 +5,7 @@ import java.awt.Image;
 import java.net.URL;
 
 import org.fundaciobit.pluginsib.barcode.IBarcodePlugin;
-import org.fundaciobit.pluginsib.userinformation.UserInfo;
+import org.fundaciobit.pluginsib.barcode.UserInfo;
 
 import com.itextpdf.text.pdf.Barcode128;
 

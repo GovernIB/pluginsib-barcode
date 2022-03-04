@@ -12,6 +12,12 @@
     <module>pdf417</module>
     <module>barcode128</module>
   </modules>
+  <properties>
+		<pluginsib.barcode.api.version>3.0.0</pluginsib.barcode.api.version>
+		<maven.compiler.release>11</maven.compiler.release>
+		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+  </properties>
   <repositories>
     <repository>
       <id>maven-nuxeo</id>

@@ -4,7 +4,6 @@ import java.awt.Image;
 import java.io.File;
 import java.net.URL;
 import javax.imageio.ImageIO;
-import org.fundaciobit.plugins.barcode.barcode128.BarCode128Plugin;
 import org.fundaciobit.pluginsib.core.utils.ImageUtils;
 
 /**

@@ -5,7 +5,7 @@ import java.awt.Image;
 import java.net.URL;
 
 import org.fundaciobit.pluginsib.barcode.IBarcodePlugin;
-import org.fundaciobit.pluginsib.userinformation.UserInfo;
+import org.fundaciobit.pluginsib.barcode.UserInfo;
 
 import com.itextpdf.text.pdf.BarcodePDF417;
 
@@ -98,7 +98,7 @@ public class Pdf417Plugin implements IBarcodePlugin {
 
 
   @Override
-  public Image generateUserInfoBarCode(UserInfo userInfo) throws Exception {
+  public Image generateUserInfoBarCode(org.fundaciobit.pluginsib.barcode.UserInfo userInfo) throws Exception {
     return null;
   }
 
