@@ -1,4 +1,4 @@
-package org.fundaciobit.pluginsib.barcode;
+package org.fundaciobit.pluginsib.barcode.api;
 
 import java.util.Date;
 import java.util.Map;

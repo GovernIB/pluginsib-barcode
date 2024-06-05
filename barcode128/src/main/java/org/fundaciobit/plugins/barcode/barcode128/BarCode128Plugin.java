@@ -4,8 +4,8 @@ import java.awt.Color;
 import java.awt.Image;
 import java.net.URL;
 
-import org.fundaciobit.pluginsib.barcode.IBarcodePlugin;
-import org.fundaciobit.pluginsib.barcode.UserInfo;
+import org.fundaciobit.pluginsib.barcode.api.IBarcodePlugin;
+import org.fundaciobit.pluginsib.barcode.api.UserInfo;
 
 import com.itextpdf.text.pdf.Barcode128;
 

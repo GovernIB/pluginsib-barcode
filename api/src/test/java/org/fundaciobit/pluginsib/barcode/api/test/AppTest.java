@@ -1,4 +1,4 @@
-package org.fundaciobit.pluginsib.barcode;
+package org.fundaciobit.pluginsib.barcode.api.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

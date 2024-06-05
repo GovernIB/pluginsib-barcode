@@ -7,8 +7,8 @@ import java.net.URL;
 
 import javax.imageio.ImageIO;
 
-import org.fundaciobit.pluginsib.barcode.UserInfo;
-import org.fundaciobit.pluginsib.core.utils.ImageUtils;
+import org.fundaciobit.pluginsib.barcode.api.UserInfo;
+import org.fundaciobit.pluginsib.core.v3.utils.ImageUtils;
 
 /**
  * 

@@ -1,16 +1,16 @@
-package org.fundaciobit.pluginsib.barcode;
+package org.fundaciobit.pluginsib.barcode.api;
 
 import java.awt.Image;
 import java.net.URL;
 
-import org.fundaciobit.pluginsib.core.IPlugin;
+import org.fundaciobit.pluginsib.core.v3.IPluginIB;
 
 /**
  * 
  * @author anadal
  * 
  */
-public interface IBarcodePlugin extends IPlugin {
+public interface IBarcodePlugin extends IPluginIB {
 
   public static final int TYPE_TEXT = 0;
 

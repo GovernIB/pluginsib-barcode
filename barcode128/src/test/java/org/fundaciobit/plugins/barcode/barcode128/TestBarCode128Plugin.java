@@ -4,7 +4,7 @@ import java.awt.Image;
 import java.io.File;
 import java.net.URL;
 import javax.imageio.ImageIO;
-import org.fundaciobit.pluginsib.core.utils.ImageUtils;
+import org.fundaciobit.pluginsib.core.v3.utils.ImageUtils;
 
 /**
  * 
