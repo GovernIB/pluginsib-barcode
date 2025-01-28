@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.barcode.qrcode;
+package org.fundaciobit.pluginsib.barcode.qrcode;
 
 
 import java.awt.Image;
